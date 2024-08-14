@@ -4,7 +4,8 @@
 
 <main>
 	<h1>{name}!</h1>
-	<p>Contact <a href="aravind.13.prabhu@gmail.com">Aravind</a></p>
+	
+	<p>Contact <a href= "mailto: aravind.13.prabhu@gmail.com"> Aravind </a></p>
 </main>
 
 <style>
